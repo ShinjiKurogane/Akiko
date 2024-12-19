@@ -1,4 +1,5 @@
 
+![Screenshot 2024-12-19 023428](https://github.com/user-attachments/assets/6cd42997-7a5a-4006-8e5a-f32b8ce968ed)
 
 Akiko is a powerful agent framework seamlessly integrated with the Dojo stack, empowering developers to bring their games and applications to life with intelligent, autonomous agents. Whether you need NPCs that feel truly alive, dynamic storytellers that craft compelling narratives, or natural language interfaces that let players interact with your world in intuitive ways - Akiko makes it possible.
 
